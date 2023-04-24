@@ -13,7 +13,6 @@
 <a href="https://www.youtube.com/watch?v=d8WaR9Mv5WM">
   <img src="https://i.pinimg.com/originals/20/9b/d8/209bd859c265e7ffc4bfeb75877b23f7.png" width="50px">
  </ a>
- < /br>
  <h3>My telegram profile</ h3>
 <a href="https://t.me/UmidaxonSaparbayeva">
   <img src="https://i.pinimg.com/736x/79/c3/15/79c315509d714f25c500ede412d38de7.jpg" width="50px">
